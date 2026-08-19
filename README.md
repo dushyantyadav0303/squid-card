@@ -103,12 +103,14 @@ Source : `src/PCB/Board/`
 
 Source: `production/pcb/bom.csv`
 
-|No.|Quantity|Comment                              |Designator|Footprint                               |Value   |LCSC Price|Link to buy|
+|No.|Quantity|item                              |Designator|Footprint                               |Value   |LCSC Price|Link to buy|
 |---|--------|-------------------------------------|----------|----------------------------------------|--------|----------|-----------|
-|1  |1       |13.56MHz                             |U1        |XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH|13.56MHz|2.7$      |[BUY](https://www.lioncircuits.com/parts/NT3H2111W0FHKH)|
-|2  |1       |220nF                                |C1        |C0603                                   |220nF   |0.05$    |[Buy](https://robu.in/product/cl21b104kcc5pnc-samsung-cap-ceramic-0-1uf-100v-x7r-10-pad-smd-0805-omd-cap-125c-automotive-aec-q200-t-r/)|
-|3  |1       |KT-0603R                             |LED1      |LED-SMD_L1.6-W0.8-R-RD                  |        |0.07$         |[BUY](https://robu.in/product/xl-2012vrc-xinglight-5ma-90mcd-red-lens-615nm630nm-positive-stick-red-120-75mw-2-7v3-3v-0805-led-indication-discrete-rohs/)|
+|1  |1       |NT3H2111W0FHKH                             |U1        |XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH|13.56MHz|2.7$      |[BUY](https://www.lioncircuits.com/parts/NT3H2111W0FHKH)|
+|2  |1       |Capacitor 220nF                                |C1        |C0603                                   |220nF   |0.05$    |[Buy](https://robu.in/product/cl21b104kcc5pnc-samsung-cap-ceramic-0-1uf-100v-x7r-10-pad-smd-0805-omd-cap-125c-automotive-aec-q200-t-r/)|
+|3  |1       |SMD-led                             |LED1      |LED-SMD_L1.6-W0.8-R-RD                  |        |0.08$         |[BUY](https://robu.in/product/xl-2012vrc-xinglight-5ma-90mcd-red-lens-615nm630nm-positive-stick-red-120-75mw-2-7v3-3v-0805-led-indication-discrete-rohs/)|
 |4  |1       |PCB                             |       |       |  |9.5$      | [BUY](https://robu.in/product/online-pcb-manufacturing-service/)|
+|5  |1       |Soldering Material              |       |       |  |11.2$     | [BUY](https://robu.in/product/online-pcb-manufacturing-service/)|
+|Total|23.5$|
 
 
 ## License
