@@ -12,8 +12,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
-![Series](https://img.shields.io/badge/Series-Converter-red.svg)
-![Devlog](https://img.shields.io/badge/Devlog-13Hr7min-blue)
+![Series](https://img.shields.io/badge/Series-Squid-brown.svg)
 
 </div>
 
@@ -80,7 +79,7 @@ Source : `src/PCB/Board/`
       <td valign="bottom"><img width=90% alt="image" src="https://github.com/user-attachments/assets/b974a31e-b422-4460-85e1-9b4fcb1b2508" />
 
 </td>
-      <td valign="bottom"><img width=120% alt="image" src="https://github.com/user-attachments/assets/29e51aa2-1db7-4a70-91d6-d4ffcd0bf44e" />
+      <td valign="bottom"><img width=120% alt="image" src="https://github.com/user-attachments/assets/cfebab4a-b7bd-45b5-b611-b6eb2a465b89" />
 
 </td>
   </table>
@@ -109,16 +108,13 @@ Source: `production/pcb/bom.csv`
 |1  |1       |13.56MHz                             |U1        |XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH|13.56MHz|2.7$      |[BUY](https://www.lioncircuits.com/parts/NT3H2111W0FHKH)|
 |2  |1       |220nF                                |C1        |C0603                                   |220nF   |0.05$    |[Buy](https://robu.in/product/cl21b104kcc5pnc-samsung-cap-ceramic-0-1uf-100v-x7r-10-pad-smd-0805-omd-cap-125c-automotive-aec-q200-t-r/)|
 |3  |1       |KT-0603R                             |LED1      |LED-SMD_L1.6-W0.8-R-RD                  |        |0.07$         |[BUY](https://robu.in/product/xl-2012vrc-xinglight-5ma-90mcd-red-lens-615nm630nm-positive-stick-red-120-75mw-2-7v3-3v-0805-led-indication-discrete-rohs/)|
-|4  |1       |PCB                             |       |         |9.5$      |[BUY](https://robu.in/product/online-pcb-manufacturing-service/)|
+|4  |1       |PCB                             |       |       |  |9.5$      | [BUY](https://robu.in/product/online-pcb-manufacturing-service/)|
 
 
 ## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Contributions, improvements, and remixes are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
 
 
 
@@ -128,4 +124,3 @@ This project uses:
 
 - **EasyEDA** - PCB design and schematic capture
 - **[Jutebox](https://www.jukeboxprint.com/blog/the-making-of-the-squid-game-business-card)** for Squid game card All dimensions
-- **[@NotARoomba](https://github.com/notaroomba) & [@Gabouin](https://github.com/Gabouin)** - Readme template
