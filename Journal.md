@@ -9,8 +9,11 @@ created_at: "2026-08-19"
 ## hemlo,
 ### I'm at the final step of completing this project. First I open source a model at oshwlab which make it easy to share.
 ### Next I made the polished readme of the Project. + BOM 
-<img width="280" height="681" alt="image" src="https://github.com/user-attachments/assets/b82afcf4-5ba3-4592-bfce-a3d63715774b" />
-<img width="280" height="681" alt="image" src="https://github.com/user-attachments/assets/22cfc8c9-1553-42fe-9f6e-637e03d29304" />
+<img width="280" height="681" alt="image" src="https://github.com/user-attachments/assets/b82afcf4-5ba3-4592-bfce-a3d63715774b" /> <br/>
+<img width="264" height="417" alt="image" src="https://github.com/user-attachments/assets/b82aa0ad-62b5-466e-b469-e20fa2798d51" /> <br/>
+
+
+
 # it take 2hr fr not joking!
 
 **Total time spent: 2h**
