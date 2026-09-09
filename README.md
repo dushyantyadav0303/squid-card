@@ -30,7 +30,7 @@
 <br>
 <br>
 <p align=center>
-<img src="https://github.com/user-attachments/assets/e1bb3f89-367d-4a2d-b6a3-6ff3c9b7def3" /> alt="Banner" width=80%/>
+<img src="https://github.com/user-attachments/assets/e1bb3f89-367d-4a2d-b6a3-6ff3c9b7def3" alt="Banner" width=80%/>
  
 </p>
 
